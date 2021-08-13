@@ -1,4 +1,4 @@
-# Jogo-Java
+# Jogo Java
 
 Em 2019 tinha feito um jogo em Java usando os Forms na plataforma NetBeans.
 
